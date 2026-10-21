@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FormsUITestProject/FormsUITestProject.csproj" />
+  <Project Path="WinFormsUITesting/WinFormsUITesting.csproj" />
+</Solution>
